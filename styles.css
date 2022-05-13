@@ -1,0 +1,67 @@
+.ti {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    margin: 10px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+    border: 5px solid red;
+}
+
+.an {
+    padding: 10px;
+    margin: 10px;
+    width: 33%;
+}
+
+.v {
+    padding: 10px;
+    margin: 10px;
+    width: 33%;
+}
+
+.fe {
+    padding: 10px;
+    margin: 10px;
+    width: 33%;
+}
+
+.about {
+    border: 5px solid black;
+    display: block;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    width: 33%;
+}
+
+img {
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.news {
+    border: 5px solid black;
+    display: block;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    width: 33%;
+}
+
+.fan {
+    border: 5px solid black;
+    display: block;
+    justify-content: center;
+    padding: 20px;
+    margin: 10px;
+    width: 33%;
+}
+
+.all {
+    display: flex;
+}
